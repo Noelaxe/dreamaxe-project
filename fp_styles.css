@@ -1,0 +1,59 @@
+.dreamaxe-title {
+    font-family: Rosarivo;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 40;
+    color: rgb(46, 45, 45);
+    margin-top: 130px;
+}
+
+.aboutme-container {
+    display: flex;
+    align-items: row;
+}
+
+.aboutme-text-container {
+   margin-right: 50px;
+}
+
+.me-image {
+    margin-top: 20px;
+}
+
+.blog-page-container {
+    display: flex;
+    align-items: row;
+}
+
+.blog-page-container h1 {
+    font-family: Ancizar serif;
+    font-size: 70px;
+    font-weight: 300;
+    text-align: center;
+    margin-left: -40px;
+    color: rgb(46, 45, 45);
+}
+
+.blog-page-container p {
+    max-width: 930px;
+    margin-top: 65px;
+}
+
+.important-resources-container {
+    display: flex;
+}
+
+.important-resources-container h1 {
+    font-family: Ancizar serif;
+    font-size: 70px;
+    font-weight: 300;
+    text-align: center;
+    margin-right: -50px;
+    color: rgb(46, 45, 45);
+}
+
+.important-resources-container p {
+    max-width: 930px;
+    margin-top: 65px;
+}
+

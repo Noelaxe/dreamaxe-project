@@ -1,0 +1,57 @@
+.navbar {
+    text-decoration: none;
+    font-family: Questrial;
+    display: flex;
+    margin-bottom: -50px;
+    margin-top: 110px;
+    border-bottom: 2px rgb(46, 45, 45) solid;
+
+}
+
+.empty-space{
+    min-width: 420px;
+}
+.navdiv {
+    display: flex;
+    align-items: row;
+}
+
+.navdiv li{
+    list-style: none;
+    display: inline-block;
+}
+
+.navdiv a{
+    color: rgb(46, 45, 45);
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 400;
+    margin-left: 18px;
+}
+
+body {
+    background-color: #EEEDE7;
+    font-family: Questrial;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 950px;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: normal;
+    overflow-wrap: break-word;
+    text-wrap: wrap;
+    text-align: justify;
+    color: #605654;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(46, 45, 45)
+}
+
