@@ -27,5 +27,8 @@
 
 .log-content {
     margin-left: 50px;
+}
+
+.log-content li {
     color: rgb(46, 45, 45);
 }
