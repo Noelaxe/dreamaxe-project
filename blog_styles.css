@@ -19,14 +19,15 @@
 
 
 .blog-post {
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 
-.blog-post h1 {
+.post-heading{
     font-family: Ancizar serif;
     font-size: 40px;
     font-weight: 300;
     color: rgb(46, 45, 45);
+    margin-bottom: 33px;
 }
 
 .post-date {
@@ -34,7 +35,5 @@
     color: black;
 }
 
-.post-content {
-    margin-top: 25px;
-}
+
 
