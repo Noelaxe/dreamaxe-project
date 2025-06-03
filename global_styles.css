@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+  }
+
 .navbar {
     text-decoration: none;
     font-family: Questrial;
@@ -47,7 +51,7 @@ body {
 p {
     font-size: 20px;
     font-weight: 400;
-    line-height: 30px;
+    line-height: 1.6;
     letter-spacing: normal;
     overflow-wrap: break-word;
     text-wrap: wrap;

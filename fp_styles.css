@@ -71,10 +71,11 @@
     text-align: center;
     color: rgb(46, 45, 45);
     margin-top: 54px;
+    margin-left: 20px;
 }
 
 .logs-page-container p {
-    max-width: 900px;
-    margin-top: 65px;
-    margin-left: 30px;
+    max-width: 730px;
+    margin-top: 72px;
+    margin-left: 40px;
 }
