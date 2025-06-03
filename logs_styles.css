@@ -1,0 +1,30 @@
+.logs-title {
+    font-family: Rosarivo;
+    font-size: 100px;
+    font-weight: 40;
+    text-align: center;
+    color: rgb(46, 45, 45);
+    margin-top: 130px;
+}
+
+.logs-subtitle {
+    font-family: Rosarivo;
+    font-size: 18px;
+    font-weight: 40;
+    text-align: center;
+    color: rgb(46, 45, 45);
+    margin-top: -70px;
+    margin-bottom: 100px;
+}
+
+.log-post {
+    font-size: 20px;
+}
+
+.log-date {
+    font-weight: 600;
+}
+
+.log-content {
+    margin-left: 50px;
+}

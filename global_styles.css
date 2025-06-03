@@ -9,24 +9,29 @@
 }
 
 .empty-space{
-    min-width: 420px;
-}
-.navdiv {
-    display: flex;
-    align-items: row;
+    min-width: 270px;
 }
 
-.navdiv li{
-    list-style: none;
-    display: inline-block;
+.navdiv {
+    align-items: row;
+    flex: 1;
 }
+
+.navdiv ul {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    width: 100%;
+}
+
 
 .navdiv a{
     color: rgb(46, 45, 45);
     text-decoration: none;
     font-size: 22px;
     font-weight: 400;
-    margin-left: 18px;
 }
 
 body {
