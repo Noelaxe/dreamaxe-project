@@ -19,6 +19,7 @@
 
 .log-post {
     font-size: 20px;
+    margin-bottom: 45px;
 }
 
 .log-date {
@@ -26,9 +27,10 @@
 }
 
 .log-content {
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 .log-content li {
+    margin-top: 15px;
     color: rgb(46, 45, 45);
 }
